@@ -1,2 +1,2 @@
-# nhs-r_vision
+# NHS-R vision
 A document exploring what NHS-R has achieved and what is next for NHS-R
