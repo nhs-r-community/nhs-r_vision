@@ -43,5 +43,5 @@ This should inform our approach to risk over the coming years. We should focus o
 We would like to invite you to comment on this, to share your suggestions and help shape the future of the Community.
 
 * What have we got right?
-* *What have we missed?
-* *What would you like to see the NHS-R Community offer you, as an analyst or a leader, in the future?
+* What have we missed?
+* What would you like to see the NHS-R Community offer you, as an analyst or a leader, in the future?
