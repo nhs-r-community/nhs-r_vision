@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Background on NHS-R vision</title>
-    <link>http://example.org/</link>
+    <link>https://nhs-r-community.github.io/nhs-r_vision/</link>
     <description>Recent content in Background on NHS-R vision</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://nhs-r-community.github.io/nhs-r_vision/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

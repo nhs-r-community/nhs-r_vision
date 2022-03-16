@@ -1,14 +1,14 @@
 {
   "name": "NHS-R vision",
   "short_name": "NHS-R vision",
-  "start_url": "/",
-  "scope": "/",
+  "start_url": "/nhs-r_vision/",
+  "scope": "/nhs-r_vision/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/favicon.svg",
+      "src": "/nhs-r_vision/favicon.svg",
       "sizes": "512x512"
     }
   ]
