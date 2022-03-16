@@ -1,6 +1,5 @@
 ---
 title: "Background"
-date: 2022-03-16T10:48:37Z
 draft: false
 ---
 
