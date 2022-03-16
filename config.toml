@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://nhs-r-community.github.io/nhs-r_vision/'
 languageCode = 'en-us'
 title = 'NHS-R vision'
 theme = "hugo-book"
