@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NHS-R vision</title>
+    <link>http://example.org/</link>
+    <description>Recent content on NHS-R vision</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Background</title>
+      <link>http://example.org/background/</link>
+      <pubDate>Wed, 16 Mar 2022 10:48:37 +0000</pubDate>
+      
+      <guid>http://example.org/background/</guid>
+      <description>Four key questions for our members and stakeholders #  How has the NHS-R Community contributed to the system thus far? #  The positive contribution of the NHS-R Community was shared by all stakeholders and included the following highlights. For analysts: a safe, trusted, supportive space to learn and share together, a badge of honour, joy, confidence, upskilling, networking, working across organisational boundaries without needing permission. For leaders: signposting to a trusted brand and community that can influence policy which is underpinned by two value systems - NHS and open source.</description>
+    </item>
+    
+  </channel>
+</rss>
