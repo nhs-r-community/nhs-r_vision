@@ -12,3 +12,4 @@ The NHS-R community has developed/ is developing training on introduction to R, 
 
 # Development 
 
+The NHS-R community comprises members with a very wide diversity of job roles and skills. Although there is no one route to being a skilled and userful R developer in health and social care nonetheless the R community could usefully contribute to thinking on how to recruit, train, and develop analysts who use R and other open code approaches to data science/ data analysis. 
