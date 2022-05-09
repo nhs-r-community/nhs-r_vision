@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://nhs-r-community.github.io/nhs-r_vision/docs/event/</loc>
+  </url><url>
+    <loc>https://nhs-r-community.github.io/nhs-r_vision/docs/open_guidelines/</loc>
+  </url><url>
+    <loc>https://nhs-r-community.github.io/nhs-r_vision/docs/research/</loc>
+  </url><url>
     <loc>https://nhs-r-community.github.io/nhs-r_vision/</loc>
   </url><url>
     <loc>https://nhs-r-community.github.io/nhs-r_vision/docs/background/</loc>

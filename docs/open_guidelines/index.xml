@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guidelines for open tooling and code on NHS-R vision</title>
+    <link>https://nhs-r-community.github.io/nhs-r_vision/docs/open_guidelines/</link>
+    <description>Recent content in Guidelines for open tooling and code on NHS-R vision</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://nhs-r-community.github.io/nhs-r_vision/docs/open_guidelines/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
