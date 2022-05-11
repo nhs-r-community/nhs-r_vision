@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Research on NHS-R vision</title>
+    <title>Using R in Research on NHS-R vision</title>
     <link>https://nhs-r-community.github.io/nhs-r_vision/docs/research/</link>
-    <description>Recent content in Research on NHS-R vision</description>
+    <description>Recent content in Using R in Research on NHS-R vision</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://nhs-r-community.github.io/nhs-r_vision/docs/research/index.xml" rel="self" type="application/rss+xml" />
   </channel>
