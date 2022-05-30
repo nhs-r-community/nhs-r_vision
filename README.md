@@ -1,6 +1,3 @@
 # NHS-R vision
 
-## Background
-Over the last three years, the NHS-R Community has grown with support from the Health Foundation. It has been successful in its aim of promoting the use of open-source software and open analytics, delivered through conferences, workshops and building networks. The NHS-R team has effectively convened and networked upwards of a thousand people in data and analyst roles across the health and care sector and provided opportunities to upskill and learn which have reaped benefits in efficiencies, as reported by its members. It is increasingly establishing relationships with open-source enthusiasts working in health and care across the world. For the next twelve months, the NHS-R Community is obliged to meet its existing commitments to the Health Foundation – which means funding Solutions, growing the community’s number of Fellows and Champions, holding workshops and conferences. But, beyond then, we have the opportunity to reimagine the role that the Community plays. This document is an invitation to shape that future.
-
-Please read the [evolving document](https://nhs-r-community.github.io/nhs-r_vision/). Comments, issues and PRs welcome, if you need assistance making a PR because you haven't used Hugo before please file an issue, we're happy to help you to contribute.
+This repo is being deprecated. Please contribute to the NHS-R vision in thie dedicated chapter in this repo https://github.com/nhs-r-community/statements-on-tools
